@@ -90,7 +90,7 @@ def delete_menu(delete_lines):
 
 import pathlib  # loads the library for object-oriented filesystem paths
 current_folder = pathlib.Path(__file__).parent.absolute().__str__()
-import_file_name = "export.csv"
+import_file_name = "export.csv" #must be in same folder
 path_source = current_folder + "/" + import_file_name
 print("Importing: " + path_source)
 
