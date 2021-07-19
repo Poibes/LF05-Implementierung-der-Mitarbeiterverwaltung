@@ -1,0 +1,37 @@
+ID;Name;Personalnummer;Geburtsdatum;Alter;Adresse;Abteilung;Telefonnummer;Anstellungsverhältnis;Geschlecht (m/w/d);Führerschein;Religion;Krankenkasse;Familienstand;Gehalt;E-Mail;Vorgesetzter;Eintrittsdatum
+5;Hans Werner;1337;20.04.1989;31;Musterweg 32;Politik;0174 184646;CEO;d;BE;Atheist;AKO;Verheiratet;100.000.000;Hans.Werner@BRDGmbH.de;Hans Werner;01.06.1999
+9;Wilhelm;1836;04.08.1936;84;Bremer Herrstraße 69;Vertrieb;0164 9759375;Angestellter;m;Nein;Katholisch;AOK;Verheiratet;1.500.000;W.Skrim@powerfulmininggmbhincorporated.co.uk;Horst Hopst;06.09.1937
+8;Charles Darwin;1882;12.02.1909;111;Rankenfußkrebs Straße 2;Systemanalyse;0172 5151850;Unbefristet;m;DE, T;Atheist;Evolution;Verheiratet;1.001;CharlsDarwin@Evolotionäre.com;Optimus Prime;01.08.1945
+18;Heinrich Marsen;5940;01.01.1990;30;Mohnblumenweg 7;Vertrieb;0423 16780;Angestellter;m;N;Evangelisch;HKKK;Verheiratet;2.800;h.stock@deine.firma.de;T.Reichelt;01.08.2008
+2;Friedhelm Meis;13124;18.07.1967;53;Blumenstraße 13;Vetrieb;0160 63398;Angestellter;m;L;Evangelisch;HkK;Verheiratet;6.666;Friedhelm@yahoo.de;Horst Hopst;18.07.1989
+3;Jürgen Werner;16666;17.03.1953;67;Jürgensstraße 66;Verlag;0179 668934;Angestellter;d;Nein;k/A;BKK;Ledig;6.789;Jürgen.Werner21@gmail.com;Horst Hopst;13.02.1973
+7;James Dean;18473;04.02.1955;65;Königsstraße 34;IT;0170 92830291;Vorstandsvorsitzender;m;B;k/A;Die Techniker ;Verwitwet;100.000;jamesdean@deanmangment.com;Obama;09.09.2020
+17;Insa Hailbrog;18674;01.09.1997;23;Bremer Heerstraße 31;Marketing;0179 5418384;unbefristet;w;Nein;Katholisch;HKKK;Ledig;3.831;insa.homburg@ewetel.net;Horst Hopst;30.06.2005
+10;Karl Friedrich;20203;25.01.1973;47;Hauptstrasse 149;HR;0174 56789;Angestellter;m;CE;Kath.;AOK;Ledig;6.800;kar.a@gm.de;Horst Hopst;01.09.2020
+11;Horst Hopst;20986;27.05.1926;94;Johan Evan Straße 2;IT;0142 9875935;Abteilungsleiter IT;m;B;k/A;IHK;Ledig;3.400.000;HH@powerfulmininggmbhincorporated.co.uk;Hans Werner;05.09.1937
+4;Dietmar Jung;26486;13.07.1971;49;Koppelweg 22;HR Payroll;0172 4673599;Angestellter;d;BE,C;k/A;BarmerGEK;Verheiratet;8.475;dietmar.jung@hotmail.de;Horst Hopst;01.06.1990
+16;Manfred Bohles;39576;12.06.1999;21;Bremer Heerstraße 31;IT;0179 5483254;unbefristet;m;BE;Evangelisch;AOK;Ledig;2.199;manfred.homburg@gmail.com;Horst Hopst;30.06.2005
+13;Markus Markward;75464;14.08.1996;24;Marienweg 4;IT;0432 342342;unbefristet;m;B;Evangelisch;AOK;Ledig;3.743;markus@powerfulmininggmbh.co.uk;Dieter Hausmann;01.02.2018
+14;Thorsten Holz;90843;01.01.1999;21;Am Stern 3 ;Geschäftsführer;1522 175678;befristet;m;B;Evangelisch;HKKK;Ledig;10.000;T.H.@gmail.com;Horst Hopst;01.02.2020
+1;Dieter Mehrbach;187187;18.07.1978;42;Bremer Straße 33;Marketing;0178 887778;unbefristet;d;B;Evangelisch;TKK;Ledig;6.000;mehrbach@spezialsoftware.de;Horst Hopst;18.07.2001
+12;Klaus Dieter;192310;28.02.1984;36;Verdener Straße 475;Facility Management;0421 252535;unbefristet;m;CE;Katholisch;IKK;Verheiratet;2.000;klaus.dieter@uni-eldorado.de;Werner Meier;01.01.2000
+15;Ali Memanadi;1234567;23.08.1986;34;Bremer Straße 21;IT;1631 234567;unbefristet;m;B;Evangelisch;AOK;Verheiratet;3.000;ali.m8@gmail.com;Horst Hopst;01.04.1997
+6;Rainer Zufall;42133742;13.03.1977;43;Ligusterweg 12;IT;0176 45900631;Praktikant;d;BE;Mystischer Christ;HKK;Ledig;1;lol@familienfreundlicher.de;Klaus Peter;01.10.2020
+19;Timo Makler;123456789;02.10.1996;24;Teststraße 1;IT;0363 123456789;Angestellter;m;B;Evangelisch;HKK;Ledig;9.000;test@testemail.de;Heinz;10.09.2020
+;;;;;;;;;;;;;;;;;
+;Ältester Mitarbeiter;;;Durchschnittsalter;;;;;Prozentuale Geschlechterverteilung;;;;;Gehalt Gesamt;;;
+;Charles Darwin;;;47,32;;;;;;;;;;105.072.305;;;
+;111;;;;;;;Männlich;68,42;;;;;;;;
+;;;;;;;;Weiblich;5,26;;;;;;;;
+;;;;;;;;Divers;26,32;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
